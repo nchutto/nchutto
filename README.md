@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Nicole Hutto 👋
 
-<!--
-**nchutto/nchutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate (Data Analytics)  
+Seeking Remote Data Engineering, Data Analytics, and Business Intelligence Opportunities  
+4+ Years of IT Experience
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- AWS
+- MongoDB
+- Git
+- Java
+- C++
+
+## Featured Projects
+
+### CS-499 Capstone Portfolio (DriverPass Enhancement)
+
+- Enhanced a full-stack application through software engineering, database, and algorithm improvements.
+- Implemented security, testing, and database enhancements.
+- Created professional documentation, software design artifacts, and technical narratives.
+- Demonstrated software engineering best practices and project evolution.
+
+### Travlr Full-Stack Application (CS-465)
+
+- Built a full-stack travel management application using Angular, Node.js, Express, and MongoDB.
+- Developed REST APIs for data retrieval, creation, updating, and deletion.
+- Implemented user authentication and secure database interactions.
+- Created reusable UI components and administrative tools for trip management.
+
+### Data Analytics Projects
+
+- Utilized Python, SQL, and Power BI to analyze, transform, and visualize data.
+- Applied data modeling, reporting, and analytical techniques to support decision-making.
+- Developed projects focused on data exploration, automation, and business insights.
+
+## Areas of Interest
+
+- Data Engineering
+- Data Analytics
+- Business Intelligence
+- Cloud Technologies
+- Process Automation
+
+## Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/in/nicole-hutto
+
+🔗 GitHub Portfolio: https://github.com/nchutto
+
+🔗 CS-499 Capstone: https://github.com/nchutto/CS-499
