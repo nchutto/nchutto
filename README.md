@@ -1,7 +1,11 @@
 # Hi, I'm Nicole Hutto 👋
 
-Computer Science Graduate (Data Analytics)  
-Seeking Remote Data Engineering, Data Analytics, and Business Intelligence Opportunities  
+B.S. Computer Science (Data Analytics) | Southern New Hampshire University
+
+Seeking Remote Data Engineering, Data Analytics, and Business Intelligence Opportunities
+
+Python • SQL • AWS • Power BI • MongoDB • Git
+
 4+ Years of IT Experience
 
 ## Technical Skills
@@ -31,7 +35,7 @@ Seeking Remote Data Engineering, Data Analytics, and Business Intelligence Oppor
 - Implemented user authentication and secure database interactions.
 - Created reusable UI components and administrative tools for trip management.
 
-### Data Analytics Projects
+### Data Analytics & Business Intelligence Projects
 
 - Utilized Python, SQL, and Power BI to analyze, transform, and visualize data.
 - Applied data modeling, reporting, and analytical techniques to support decision-making.
